@@ -26,14 +26,9 @@
 
 <br><br>
 
-- :school: Soy Estudiande [Facultad de Ciencias Físicas y Matemáticas](https://ingenieria.uchile.cl/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :school: Soy Estudiande de Injenieria Civil Industrial [Facultad de Ciencias Físicas y Matemáticas](https://ingenieria.uchile.cl/).
+- :technologist: Me encanta progamar y buscar soluciones a los problemas.
+- :student: Actualmente estoy aprendiendo `Computer Science`.
 <br>
 
 
